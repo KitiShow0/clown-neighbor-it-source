@@ -1,4 +1,5 @@
 **Before reading this tutorial please make sure to install Unity 2018.2.16f1, https://download.unity3d.com/download_unity/367980004550/Windows64EditorInstaller/UnitySetup64-2018.2.16f1.exe or write unityhub://2018.2.16f1 into your browser if you installed Unity Hub (I reccomend installing Unity Hub as it is easier and more stable than installers.)**
+
 ENG: Hello user! This is a reconstruction of the Clown Neighbor IT by Spectacular Games, it is initially build with a weird mono what cant be decompiled with normal tools like AssetRipper. This reconstruction uses the code of Baldy neighbor which is another game that has the same code structure and is perfect for reconstructing it. 
 When you enter a level you'll not see a house. That is normal, it loads a prefab but first you need to configure this:
 Click the "Canvas" and you'll see a script that has many empty public variables, make sure to change them to the ones on the image, there can sometimes be 2 objects with the same name so make sure to change it to the other one if it doesnt work.
